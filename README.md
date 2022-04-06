@@ -1,3 +1,5 @@
 Unit 6 - What is an Array?
 
 In JavaScript, an array is a "data structure" that provides a way to store and organize data.
+Access Elements in an Array - To access an element within an array, you use an "index" value, which is a number that indicates a position in the array.
+Add Elements to an Array - Learn how to add elements to an array, as well as return the number of elements inside an array.

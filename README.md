@@ -5,3 +5,5 @@ Access Elements in an Array - To access an element within an array, you use an "
 Add Elements to an Array - Learn how to add elements to an array, as well as return the number of elements inside an array.
 Copy and Combine Arrays with the Spread Operator - Learn the basics of the spread operator (...), a special syntax JavaScript provides to build, combine, and manipulate arrays quickly and more seamlessly.
 Using a 'for' Loop to Iterate Over an Array - The for loop provides one way to loop (or iterate) through the elements in an array.
+Search for a Value in an Array - Write a program using the join(), includes(), and indexOf() array methods you learned about earlier. 
+Locate and Join Array Elements - Write a program using the join(), includes(), and indexOf() array methods you learned about earlier.
